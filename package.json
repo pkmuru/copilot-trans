@@ -1,0 +1,13 @@
+{
+  "name": "rta-transcripts",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@azure/msal-node": "^2.9.2",
+    "dotenv": "^16.4.5"
+  }
+}
