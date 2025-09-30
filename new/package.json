@@ -1,0 +1,14 @@
+{
+  "name": "rta-transcripts-sdk",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "@azure/identity": "^4.5.0",
+    "@microsoft/agents-m365copilot-beta": "^1.0.0-preview.6",
+    "@microsoft/kiota-authentication-azure": "^1.0.0-preview.100",
+    "@microsoft/kiota-http-fetchlibrary": "^1.0.0-preview.100",
+    "dotenv": "^16.4.5"
+  }
+}
